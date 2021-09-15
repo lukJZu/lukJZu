@@ -1,0 +1,4 @@
+- 👋 Hi, I’m JZ Luk
+- 👀 I’m mainly a Python developer at work
+- 🌱 I do some personal projects from time to time which you can browse on my profile
+- 📫 Contact me via: <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
