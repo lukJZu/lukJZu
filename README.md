@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JZ Luk
+- 👋 Hi, I’m JZ
 - 👀 I’m mainly a Python developer at work
 - 🌱 I do some personal projects from time to time which you can browse on my profile
 - 📫 Contact me via: <a href="https://www.linkedin.com/in/lukjzu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
